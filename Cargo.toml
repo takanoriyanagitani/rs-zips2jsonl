@@ -18,7 +18,7 @@ opt-level = "s"
 codegen-units = 16
 
 [dependencies.zip]
-version = "5"
+version = "9"
 default-features = false
 features = [
 	"deflate",
